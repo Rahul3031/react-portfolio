@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//react-portfolio/static/css/main.b6fd6304.css",
+    "main.js": "//react-portfolio/static/js/main.c73a8d54.js",
+    "static/media/Resume.pdf": "//react-portfolio/static/media/Resume.c1e8fa587a48bdd17080.pdf",
+    "static/media/kanha.jpg": "//react-portfolio/static/media/kanha.e1f47cc90ebc3257810b.jpg",
+    "index.html": "//react-portfolio/index.html",
+    "main.b6fd6304.css.map": "//react-portfolio/static/css/main.b6fd6304.css.map",
+    "main.c73a8d54.js.map": "//react-portfolio/static/js/main.c73a8d54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6fd6304.css",
+    "static/js/main.c73a8d54.js"
+  ]
+}
